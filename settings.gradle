@@ -1,0 +1,5 @@
+rootProject.name='MixSound'
+include ':app'
+include ':app:mixsoundlib'
+include ':lib'
+include ':app:myapplication'
